@@ -1,0 +1,13 @@
+C:\Users\black\source\repos\mockAssessment\obj\Debug\netcoreapp3.1\mockAssessment.csprojAssemblyReference.cache
+C:\Users\black\source\repos\mockAssessment\obj\Debug\netcoreapp3.1\mockAssessment.AssemblyInfoInputs.cache
+C:\Users\black\source\repos\mockAssessment\obj\Debug\netcoreapp3.1\mockAssessment.AssemblyInfo.cs
+C:\Users\black\source\repos\mockAssessment\obj\Debug\netcoreapp3.1\mockAssessment.csproj.CoreCompileInputs.cache
+C:\Users\black\source\repos\mockAssessment\bin\Debug\netcoreapp3.1\mockAssessment.exe
+C:\Users\black\source\repos\mockAssessment\bin\Debug\netcoreapp3.1\mockAssessment.deps.json
+C:\Users\black\source\repos\mockAssessment\bin\Debug\netcoreapp3.1\mockAssessment.runtimeconfig.json
+C:\Users\black\source\repos\mockAssessment\bin\Debug\netcoreapp3.1\mockAssessment.runtimeconfig.dev.json
+C:\Users\black\source\repos\mockAssessment\bin\Debug\netcoreapp3.1\mockAssessment.dll
+C:\Users\black\source\repos\mockAssessment\bin\Debug\netcoreapp3.1\mockAssessment.pdb
+C:\Users\black\source\repos\mockAssessment\obj\Debug\netcoreapp3.1\mockAssessment.dll
+C:\Users\black\source\repos\mockAssessment\obj\Debug\netcoreapp3.1\mockAssessment.pdb
+C:\Users\black\source\repos\mockAssessment\obj\Debug\netcoreapp3.1\mockAssessment.genruntimeconfig.cache
